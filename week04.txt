@@ -1,0 +1,2 @@
+linux 명령어
+ echo "작성할 메시지" >>README.md
